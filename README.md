@@ -47,4 +47,4 @@ Ikuti panduan berikut untuk menjalankan proyek ini di lingkungan lokal Anda meng
 ### 1. Kloning Repositori
 Buka Terminal atau Git Bash, lalu jalankan perintah berikut:
 ```bash
-git clone [https://github.com/inayatuniin10-hash/JadwalinApp]
+git clone https://github.com/inayatuniin10-hash/JadwalinApp.git
