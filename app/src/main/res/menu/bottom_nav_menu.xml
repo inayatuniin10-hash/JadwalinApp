@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_jadwal"
+        android:icon="@android:drawable/ic_menu_today"
+        android:title="Jadwal" />
+
+    <item
+        android:id="@+id/nav_kalender"
+        android:icon="@android:drawable/ic_menu_my_calendar"
+        android:title="Kalender" />
+
+    <item
+        android:id="@+id/nav_catatan"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="Catatan" />
+
+    <item
+        android:id="@+id/nav_akun"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="Akun" />
+
+</menu>
