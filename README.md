@@ -8,8 +8,8 @@ Aplikasi Android berbasis **Java** yang dirancang untuk membantu pengguna mengel
 
 Saksikan demonstrasi operasional seluruh fitur utama aplikasi Jadwalin (Autentikasi, Kalender Tugas, Tambah/Edit Catatan dengan Lampiran Gambar, serta Manajemen Akun) melalui tautan berikut:
 
-👉 [**Tonton Video Demo Aplikasi Jadwalin di sini**](https://link-video-demo-anda-di-sini.com)  
-*(Durasi video maksimal 5 menit)*
+👉 [**Tonton Video Demo Aplikasi Jadwalin di sini**](https://drive.google.com/file/d/17IzMIkyIaZ7CG8ZY1GXCjQ4IjGdrJXlb/view?usp=drivesdk)  
+
 
 ---
 
